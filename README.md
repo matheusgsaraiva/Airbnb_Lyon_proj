@@ -8,6 +8,8 @@
 
 Nesse projeto, eu realizei uma análise dos anúncios de Airbnb em Lyon na França. Com a biblioteca pandas, foi possível verificar quais variáveis são considerados na plataforma e em qual formato (número inteiro, número decimal, data, etc.) bem como remover as variáveis que são menos importantes para os anúncios.
 
+[Link para o projeto completo](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analisando_os_Dados_do_Airbnb.ipynb)
+
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
