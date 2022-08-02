@@ -4,27 +4,12 @@
   <img src="https://img.freepik.com/free-photo/abstract-background-with-low-poly-design_1048-8478.jpg?w=900&t=st=1659433135~exp=1659433735~hmac=9199e1b68f6877282f961b5b52a4d3062224646f3839980f4a627e9a9ab2f956" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Meu Projeto Muito Top
+## Análise dos anúncios de Airbnb em Lyon-FR
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
-
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+Nesse projeto, eu realizei uma análise dos anúncios de Airbnb em Lyon na França. Com a biblioteca pandas, foi possível verificar quais variáveis são considerados na plataforma e em qual formato (número inteiro, número decimal, data, etc.) bem como remover as variáveis que são menos importantes para os anúncios.
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+* [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-
-
-## Outros Projetos Meus:
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+## Outros Projetos Meus (em breve!)
