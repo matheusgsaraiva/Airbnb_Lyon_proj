@@ -14,4 +14,5 @@ Nesse projeto, eu realizei uma análise dos anúncios de Airbnb em Lyon na Fran�
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-## Outros Projetos Meus (em breve!)
+## Outros Projetos Meus
+* **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
