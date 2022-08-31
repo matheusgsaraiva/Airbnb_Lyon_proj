@@ -16,3 +16,4 @@ Nesse projeto, eu realizei uma análise dos anúncios de Airbnb em Lyon na Fran�
 
 ## Outros Projetos Meus
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
+* **Detecção de fraude em cartões de crédito:** 
