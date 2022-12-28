@@ -4,7 +4,7 @@
   <img src="https://img.freepik.com/free-photo/abstract-background-with-low-poly-design_1048-8478.jpg?w=900&t=st=1659433135~exp=1659433735~hmac=9199e1b68f6877282f961b5b52a4d3062224646f3839980f4a627e9a9ab2f956" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Analysis of Airbnb ads in Lyon-FR
+## Analyzing Airbnb Data in Lyon-FR
 
 In this project, I performed an analysis of Airbnb ads in Lyon, France. With the pandas library, I was able to check which variables are considered in the platform and in which format (integer, decimal number, date, etc.) as well as remove the variables that are less important for the ads.
 
