@@ -6,7 +6,7 @@
 
 ## Analyzing Airbnb Data in Lyon-FR
 
-In this project, I performed an analysis of Airbnb ads in Lyon, France. With the pandas library, I was able to check which variables are considered in the platform and in which format (integer, decimal number, date, etc.) as well as remove the variables that are less important for the ads.
+In this project, I have performed an analysis of Airbnb ads in Lyon, France. With the pandas library, I was able to check which variables are considered in the platform and in which format (integer, decimal number, date, etc.) as well as remove the variables that are less important for the ads.
 
 [Link to the project](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analyzing_Airbnb_Data.ipynb)
 
