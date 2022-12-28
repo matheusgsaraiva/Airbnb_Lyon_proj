@@ -4,16 +4,16 @@
   <img src="https://img.freepik.com/free-photo/abstract-background-with-low-poly-design_1048-8478.jpg?w=900&t=st=1659433135~exp=1659433735~hmac=9199e1b68f6877282f961b5b52a4d3062224646f3839980f4a627e9a9ab2f956" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Análise dos anúncios de Airbnb em Lyon-FR
+## Analysis of Airbnb ads in Lyon-FR
 
-Nesse projeto, eu realizei uma análise dos anúncios de Airbnb em Lyon na França. Com a biblioteca pandas, foi possível verificar quais variáveis são considerados na plataforma e em qual formato (número inteiro, número decimal, data, etc.) bem como remover as variáveis que são menos importantes para os anúncios.
+In this project, I performed an analysis of Airbnb ads in Lyon, France. With the pandas library, I was able to check which variables are considered in the platform and in which format (integer, decimal number, date, etc.) as well as remove the variables that are less important for the ads.
 
-[Link para o projeto completo](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analisando_os_Dados_do_Airbnb.ipynb)
+[Link to the project](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analisando_os_Dados_do_Airbnb.ipynb)
 
-**Links para me acharem:**
+**Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-## Outros Projetos Meus
-* **Panorama do COVID-19 no Brasil:** https://bit.ly/3QxB9kL
-* **Detecção de fraude em cartões de crédito:** https://bit.ly/3Q31whK
+## My other projects
+* **COVID-19 overview in Brazil:** https://bit.ly/3QxB9kL
+* **Credit Card Fraud Detection:** https://bit.ly/3Q31whK
