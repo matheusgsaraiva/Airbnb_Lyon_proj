@@ -8,7 +8,7 @@
 
 In this project, I performed an analysis of Airbnb ads in Lyon, France. With the pandas library, I was able to check which variables are considered in the platform and in which format (integer, decimal number, date, etc.) as well as remove the variables that are less important for the ads.
 
-[Link to the project](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analisando_os_Dados_do_Airbnb.ipynb)
+[Link to the project](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analyzing_Airbnb_Data.ipynb)
 
 **Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
