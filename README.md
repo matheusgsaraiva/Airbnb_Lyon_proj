@@ -14,6 +14,6 @@ In this project, I performed an analysis of Airbnb ads in Lyon, France. With the
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-## My other projects
+## My Other Projects
 * **COVID-19 overview in Brazil:** https://bit.ly/3QxB9kL
 * **Credit Card Fraud Detection:** https://bit.ly/3Q31whK
